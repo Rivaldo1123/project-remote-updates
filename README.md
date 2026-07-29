@@ -1,7 +1,10 @@
 # Project Remote downloads
 
+![Project Remote](ProjectRemote.png)
+
 This public repository contains Project Remote Windows binaries, checksums, and
-release metadata only. It does not contain application source code.
+release metadata plus the approved product icon only. It does not contain
+application source code.
 
 Download builds from [Releases](../../releases). Each release provides:
 
@@ -20,4 +23,3 @@ Compare the result with the matching entry in the release checksum manifest.
 Alpha builds are unsigned and Windows SmartScreen may display a warning. They
 are intended for owner testing; authenticated live-RDP production acceptance is
 not yet complete.
-
